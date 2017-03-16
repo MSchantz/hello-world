@@ -1,2 +1,2 @@
 # hello-world
-Just getting started
+So here's my first git repository. Gotta learn this stuff.
